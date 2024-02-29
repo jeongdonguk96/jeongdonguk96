@@ -3,8 +3,17 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Jeongdonguk's%20Github&height=150&fontSize=70&desc=Welcome!&descSize=35&descAlignY=85&descAlign=75&fontColor=9999CC)
 
 <p align="center">
-    <Strong>Tech Stack</Strong> <br>
+    방문해주셔서 감사합니다.
 </p>
+
+<br><br>
+
+---
+<br>
+<p align="center">
+    <Strong>:checkered_flag: Tech Stack :checkered_flag:</Strong>
+</p>
+<br>
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/java-6DB33F?style=for-the-badge&logo=java&logoColor=white"> 
@@ -18,11 +27,12 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </p>
-<br><br>
+<br>
 
+---
+<br>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongdonguk96&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongdonguk96&show_icons=true&theme=shadow_blue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongdonguk96&show_icons=true&theme=shadow_blue) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongdonguk96&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
