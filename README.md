@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Jeongdonguk's%20Github&height=150&fontSize=70&desc=Welcome!&descAlignY=75&descAlign=60&fontColor=9999CC)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Jeongdonguk's%20Github&height=150&fontSize=70&desc=Welcome!&descAlignY=75&descAlign=40&fontColor=9999CC)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongdonguk96&show_icons=true&theme=shadow_blue)
 
