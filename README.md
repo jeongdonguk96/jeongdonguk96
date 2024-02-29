@@ -24,3 +24,5 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongdonguk96&show_icons=true&theme=shadow_blue)
 </div>
+
+![Anurag's GitHub repo card](https://github-readme-stats.vercel.app/api?username=jeongdonguk96&theme=shadow_blue&show_icons=true)
