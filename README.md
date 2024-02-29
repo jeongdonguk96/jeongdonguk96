@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Jeongdonguk's%20Github&height=150&fontSize=70&desc=Welcome!&descAlignY=75&descAlign=40&fontColor=9999CC)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Jeongdonguk's%20Github&height=150&fontSize=70&desc=Welcome!&descSize=35&descAlignY=85&descAlign=75&fontColor=9999CC)
 
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongdonguk96&show_icons=true&theme=shadow_blue)
+</div>
 
 <!--
 **jeongdonguk96/jeongdonguk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
