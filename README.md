@@ -1,5 +1,4 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&text=jeongdonguk's%20Github&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=jeongdonguk's%20Github&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60&fontColor=CCCCCC)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongdonguk96&show_icons=true&theme=shadow_blue)
