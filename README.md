@@ -9,6 +9,7 @@
 <br><br>
 
 ---
+
 <br>
 <p align="center">
     <Strong>:checkered_flag: Tech Stack :checkered_flag:</Strong>
@@ -30,6 +31,16 @@
 <br>
 
 ---
+
+<br>
+<p align="center" display="inline-block">
+    ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)(https://velog.io/@foodsmith96/posts)
+</p>    
+<br>
+
+---
+
+<br>
 <br>
 <div align="center">
 
