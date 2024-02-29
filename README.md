@@ -11,8 +11,9 @@
 ---
 
 <br>
+<br>
 <p align="center">
-    <Strong>:checkered_flag: Tech Stack :checkered_flag:</Strong>
+    <Strong>:checkered_flag: 스택 :checkered_flag:</Strong>
 </p>
 <br>
 
@@ -33,8 +34,12 @@
 ---
 
 <br>
+<br>
+<p align="center">
+    <Strong>:chart_with_upwards_trend: 성장 기록 :chart_with_upwards_trend:</Strong>
+</p>
 <p align="center" display="inline-block">
-    ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)(https://velog.io/@foodsmith96/posts)
+    <a href="https://velog.io/@foodsmith96/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 </p>    
 <br>
 
