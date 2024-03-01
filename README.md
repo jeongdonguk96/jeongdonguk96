@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Jeongdonguk's%20Github&height=150&fontSize=70&desc=Welcome!&descSize=35&descAlignY=85&descAlign=75&fontColor=9999CC)
 
 <p align="center">
+    꾸준함이 최고의 미덕이라 생각하며 매일을 허투루 보내지 않기 위해 노력합니다. <br>
     방문해주셔서 감사합니다.
 </p>
 
